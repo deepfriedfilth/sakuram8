@@ -1,0 +1,72 @@
+bash-3.2$ ./build.sh
+Archive:  iPhone5,2_6.1.4_10B350_Restore.ipsw
+inflating: tmp/fw/048-2891-001.dmg
+inflating: tmp/fw/048-2930-001.dmg
+inflating: tmp/fw/048-2944-001.dmg
+inflating: tmp/fw/BuildManifest.plist
+creating: tmp/fw/Firmware/
+creating: tmp/fw/Firmware/all_flash/
+creating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/applelogo@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/batterycharging0@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/batterycharging1@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/batteryfull@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/batterylow0@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/batterylow1@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/DeviceTree.n42ap.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/glyphcharging@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/glyphplugin@2x.s5l8950x.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/iBoot.n42ap.RELEASE.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/LLB.n42ap.RELEASE.img3
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/manifest
+inflating: tmp/fw/Firmware/all_flash/all_flash.n42ap.production/recoverymode@1136~iphone.s5l8950x.img3
+creating: tmp/fw/Firmware/dfu/
+inflating: tmp/fw/Firmware/dfu/iBEC.n42ap.RELEASE.dfu
+inflating: tmp/fw/Firmware/dfu/iBSS.n42ap.RELEASE.dfu
+inflating: tmp/fw/Firmware/Mav5-3.04.25.Release.bbfw
+inflating: tmp/fw/Firmware/Mav5-3.04.25.Release.plist
+creating: tmp/fw/Firmware/usr/
+creating: tmp/fw/Firmware/usr/local/
+creating: tmp/fw/Firmware/usr/local/standalone/
+inflating: tmp/fw/kernelcache.release.n42
+inflating: tmp/fw/Restore.plist
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 8d25aba0d538112746ea4a919ba3b047f93734be4227c96adb75385ba31b57ed6933278f6159001e9e08fab727a0179e
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 72d529c649e3d6bd8f8fd016132297f0e86e5391d7e6d72b84dcf1f4453ebc0034fad90cd15abb83096dacc5ff1ab165
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 4fbeae1f8e6d48a4941e69966ce6bd1784af1a4e1c231f9e776d633dd6f1f5b33e8ef4b6041754a74a64c45177f02f4c
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 8d25aba0d538112746ea4a919ba3b047f93734be4227c96adb75385ba31b57ed6933278f6159001e9e08fab727a0179e
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 8d25aba0d538112746ea4a919ba3b047f93734be4227c96adb75385ba31b57ed6933278f6159001e9e08fab727a0179e
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 72d529c649e3d6bd8f8fd016132297f0e86e5391d7e6d72b84dcf1f4453ebc0034fad90cd15abb83096dacc5ff1ab165
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 72d529c649e3d6bd8f8fd016132297f0e86e5391d7e6d72b84dcf1f4453ebc0034fad90cd15abb83096dacc5ff1ab165
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 4fbeae1f8e6d48a4941e69966ce6bd1784af1a4e1c231f9e776d633dd6f1f5b33e8ef4b6041754a74a64c45177f02f4c
+/tmp/xpwn/ipsw-patch/img3.c:createAbstractFileFromImg3:643: 4fbeae1f8e6d48a4941e69966ce6bd1784af1a4e1c231f9e776d633dd6f1f5b33e8ef4b6041754a74a64c45177f02f4c
+adding: 048-2891-001.dmg (stored 0%)
+adding: 048-2930-001.dmg (stored 0%)
+adding: 048-2944-001.dmg (stored 0%)
+adding: BuildManifest.plist (stored 0%)
+adding: Firmware/ (stored 0%)
+adding: Firmware/all_flash/ (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/ (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/applelogo@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/batterycharging0@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/batterycharging1@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/batteryfull@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/batterylow0@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/batterylow1@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/DeviceTree.n42ap.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/glyphcharging@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/glyphplugin@2x.s5l8950x.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/iBoot.n42ap.RELEASE.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/LLB.n42ap.RELEASE.img3 (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/manifest (stored 0%)
+adding: Firmware/all_flash/all_flash.n42ap.production/recoverymode@1136~iphone.s5l8950x.img3 (stored 0%)
+adding: Firmware/dfu/ (stored 0%)
+adding: Firmware/dfu/iBEC.n42ap.RELEASE.dfu (stored 0%)
+adding: Firmware/dfu/iBSS.n42ap.RELEASE.dfu (stored 0%)
+adding: Firmware/Mav5-3.04.25.Release.bbfw (stored 0%)
+adding: Firmware/Mav5-3.04.25.Release.plist (stored 0%)
+adding: Firmware/usr/ (stored 0%)
+adding: Firmware/usr/local/ (stored 0%)
+adding: Firmware/usr/local/standalone/ (stored 0%)
+adding: Restore.plist (stored 0%)
+adding: kernelcache.release.n42 (stored 0%)
+bash-3.2$ 

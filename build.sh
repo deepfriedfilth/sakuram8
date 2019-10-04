@@ -2,18 +2,18 @@
 
 # for tethered downgrade
 
-# iPhone5,2 iOS 6.1.4 [10B350] ivkey
-ibss_iv="b213c5e7ea60235bf85cc555d3ca9b9c"
-ibss_key="a7863aee09a20bbfd2829afd2d2967271e4b28db73a8da68e7ed396cd37624a4"
-ibec_iv="3bc6c9a06b39dd9c84a571a4eddf2594"
-ibec_key="92291a2c5623b0b3656fec02375e73cb607b28ab508fc18417b7b66e73fff137"
-rdsk_iv="10e7926c1cce7bbdfb0ec956ef4c1768"
-rdsk_key="a31d81fdcdb6645edea8b5152702bdf92b5df273a1b377e62c9b3273f43d8cb9"
+# iPhone5,2 iOS 7.1.2 [11D257] ivkey
+ibss_iv="d279e5c309be7ac035fd313958a178be"
+ibss_key="617f7e2d5d8e2940a325758cd42055b83e2e3d243f068d5a9015b0fe67bed815"
+ibec_iv="1d45b6ca42dafd5d711e3d23e5fa0fc7"
+ibec_key="459912ddeeeb9d4a1c66068c8c1d8f46d8dd72e3e7dfa3ff0326f1ab6bb59c28"
+rdsk_iv="13b6456bec67fa74faada14e1c3607aa"
+rdsk_key="4e0bcc542aefc750cd463f6d0ed4710f15fb0ec0d2a11d4e213b6f58c1e20e87"
 # file path
-ipsw_build="iPhone5,2_6.1.4_10B350"
+ipsw_build="iPhone5,2_7.1.2_11D257"
 ipsw_name=""$ipsw_build"_Restore.ipsw"
 ipsw_output=""$ipsw_build"_Custom.ipsw"
-restore="048-2930-001.dmg"
+restore="058-4357-009.dmg"
 
 # unzip ipsw
 mkdir tmp
